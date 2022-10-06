@@ -1,2 +1,4 @@
 # CV-PrimerParcial
-primer parcial
+primer parcial https://lacattaneo.github.io/CV-PrimerParcial/
+
+falta hacerlo responsive
